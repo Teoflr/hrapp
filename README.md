@@ -51,8 +51,8 @@ hrapp/
 
 ## 📚 Documentation
 
-- [Backend Documentation](./backend/README.md) - Spring Boot API details
-- [Frontend Documentation](./frontend/README.md) - React application details
+- [Backend Documentation](https://github.com/Teoflr/hrapplication-backend) - Spring Boot API details
+- [Frontend Documentation](https://github.com/Teoflr/hrapplication-frontend) - React application details
 
 ## 🛠️ Technology Stack
 
@@ -80,10 +80,10 @@ hrapp/
 ## 🔧 Development
 
 ### Backend Development
-See [backend/README.md](./backend/README.md) for detailed backend development instructions.
+See [backend/README.md](https://github.com/Teoflr/hrapplication-backend) for detailed backend development instructions.
 
 ### Frontend Development
-See [frontend/README.md](./frontend/README.md) for detailed frontend development instructions.
+See [frontend/README.md](https://github.com/Teoflr/hrapplication-frontend) for detailed frontend development instructions.
 
 ## 📝 Environment Variables
 
