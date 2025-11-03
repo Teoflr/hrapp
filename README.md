@@ -14,6 +14,7 @@ A full-stack Human Resources management application built with Spring Boot and R
    ```bash
    git clone https://github.com/Teoflr/hrapp.git
    cd hrapp
+   git submodule update --init --recursive
    ```
 
 2. **Set up environment variables**
